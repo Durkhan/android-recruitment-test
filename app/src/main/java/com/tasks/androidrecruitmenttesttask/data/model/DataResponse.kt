@@ -1,6 +1,7 @@
 package com.tasks.androidrecruitmenttesttask.data.model
 
 import com.google.gson.annotations.SerializedName
+import com.tasks.androidrecruitmenttesttask.data.db.model.DataEntity
 
 data class DataResponse(
 
@@ -28,3 +29,15 @@ data class DataResponse(
 	@SerializedName("7")
 	val date: String? = null
 )
+fun DataResponse.toDataEntity():DataEntity{
+	return DataEntity(
+		up_down = up_down,
+		brand = brand,
+		openingPrice = openingPrice,
+		currentPrice =currentPrice,
+		lowPrice =lowPrice,
+		highPrice = highPrice,
+		valueOfSharesInDay = valueOfSharesInDay
+        )
+}
+
