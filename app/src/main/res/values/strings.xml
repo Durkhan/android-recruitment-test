@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidRecruitmentTestTask</string>
+    <string name="opening_price">Opening price</string>
+    <string name="current_price">Current price</string>
+    <string name="low_price">Low price</string>
+    <string name="high_price">High price</string>
+    <string name="connected">Connected</string>
+    <string name="not_connectced">Disconnected</string>
 </resources>

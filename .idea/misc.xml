@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable-v24/down.xml" value="0.1725" />
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable-v24/item_background.xml" value="0.1725" />
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable-v24/up.xml" value="0.1725" />
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable-v24/up_down.xml" value="0.1725" />
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable-v24/up_down_selector.xml" value="0.1725" />
+        <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1725" />
         <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/layout/activity_main.xml" value="0.11354166666666667" />
         <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/layout/list_of_data.xml" value="0.12760416666666666" />
         <entry key="..\:/Users/Durkhan/AndroidStudioProjects/AndroidRecruitmentTestTask/app/src/main/res/layout/main_fragment.xml" value="0.12760416666666666" />

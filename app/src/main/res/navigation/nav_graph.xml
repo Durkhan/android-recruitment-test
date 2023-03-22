@@ -6,7 +6,7 @@
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.tasks.androidrecruitmenttesttask.presentation.fragment.MainFragment"
-        android:label="IntroFragment" >
+        android:label="MainFragment" >
     </fragment>
 </navigation>
 
